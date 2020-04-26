@@ -1,5 +1,5 @@
 let youtubeObj = {};
 
-youtubeObj.secret = 'AIzaSyD38NbEovvh4j73OEC-peUKRFBkbBSpW9A';
+youtubeObj.secret = "fix_me";
 
 module.exports = youtubeObj;
