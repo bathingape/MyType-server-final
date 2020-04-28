@@ -8,6 +8,10 @@
 ![스크린샷, 2020-04-08 19-34-03](https://user-images.githubusercontent.com/53068281/78774693-fd1dc800-79cf-11ea-8f4f-1e67bd3838eb.png)
 ![스크린샷, 2020-04-08 19-32-41](https://user-images.githubusercontent.com/53068281/78774716-060e9980-79d0-11ea-9b00-161ac203fd12.png)
 
+| 시연 영상 |
+https://k.kakaocdn.net/dn/VGLha/btqCylUx3an/25nkWrYdhPoKtJh2YZ3JK1/img.gif
+
+
  | 주요기능 |
 - 로그인, 로그아웃, 회원가입
 - 구글 로그인 API를 통한 소셜 로그인
